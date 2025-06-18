@@ -1,8 +1,9 @@
 # Catur
-Membuat Catur dengan bahasa pemrograman java
-##Prodi : Sistem Informasi Universitas Airlangga
-##Mata kuliah : Algoritma dan Pemrograman I1
-###Anggota Kelompok :
+## Project : Membuat Catur dengan bahasa pemrograman java
+## Prodi : Sistem Informasi Universitas Airlangga
+## Mata kuliah : Algoritma dan Pemrograman I1
+### Anggota Kelompok :
+
 Nama : Arya Satya Andhika Akbar
 NIM : 187241003 
 
